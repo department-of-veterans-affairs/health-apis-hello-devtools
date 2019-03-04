@@ -6,7 +6,7 @@
 
   <groupId>gov.va.devtools</groupId>
   <artifactId>health-apis-hello-devtools</artifactId>
-  <version>1.0.11</version>
+  <version>1.0.12-SNAPSHOT</version>
 
   <name>health-apis-hello-devtools</name>
 
