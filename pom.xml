@@ -8,8 +8,6 @@
   <artifactId>health-apis-hello-devtools</artifactId>
   <version>1.0.59-SNAPSHOT</version>
 
-  <name>health-apis-hello-devtools</name>
-
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
