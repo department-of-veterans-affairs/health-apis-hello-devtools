@@ -1,4 +1,4 @@
-package com.libertyits.app;
+src/test/java/com/libertyits/app/AppTest.javapackage com.libertyits.app;
 
 import static org.junit.Assert.assertTrue;
 
@@ -16,5 +16,6 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         assertTrue( true );
+        assertTrue( false );
     }
 }
