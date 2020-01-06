@@ -1,5 +1,4 @@
 standardMavenPipeline {
-  xhealthApisMavenImage='vasdvp/health-apis-maven:3.6-jdk-12'
-  healthApisMavenImage='vasdvp/health-apis-maven:3.6-jdk-12-bs'
+  healthApisMavenImage='vasdvp/health-apis-maven:3.6-jdk-12'
   slackChannels = ['health_apis_jenkins']
 }
