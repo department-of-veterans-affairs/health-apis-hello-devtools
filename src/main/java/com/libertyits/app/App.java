@@ -2,7 +2,7 @@ package com.libertyits.app;
 
 /**
  * Hello world!
- * DELETE ME ME
+ * DELETE ME
  */
 public class App
 {
