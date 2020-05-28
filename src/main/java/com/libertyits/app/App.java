@@ -2,8 +2,9 @@ package com.libertyits.app;
 
 /**
  * Hello world!
+ * DELETE ME
  */
-public class App 
+public class App
 {
     public static void main( String[] args )
     {
